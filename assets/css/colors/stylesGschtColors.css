@@ -1,0 +1,19 @@
+/* COLORING */
+.title-color {
+    color: #3c8835;
+}
+
+.hr-color {
+    background-color: #3c8835;
+}
+
+.nav-color {
+    color: #94c291;
+}
+.nav-color:hover {
+    background-color: #23ff4b30;
+}
+
+.block-border-color {
+    border: 2px solid #83b490;
+}
